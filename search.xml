@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>funk</title>
+      <link href="/2023/10/14/funk-1/"/>
+      <url>/2023/10/14/funk-1/</url>
+      
+        <content type="html"><![CDATA[<h2 id="图文"><a href="#图文" class="headerlink" title="图文"></a>图文</h2><h2 id="1-png"><a href="#1-png" class="headerlink" title="![1.png]"></a>![1.png]</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/06/17/hello-world/"/>
       <url>/2023/06/17/hello-world/</url>
@@ -21,8 +34,8 @@
     
     <entry>
       <title></title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -54,8 +67,8 @@
     
     <entry>
       <title></title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
