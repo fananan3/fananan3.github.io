@@ -8,7 +8,7 @@
       <link href="/2023/10/17/Flutter_news/"/>
       <url>/2023/10/17/Flutter_news/</url>
       
-        <content type="html"><![CDATA[<p>基于flutter框架实现的新闻查询软件</p><hr><hr>]]></content>
+        <content type="html"><![CDATA[<p>基于flutter框架实现的新闻查询软件</p><hr><h3 id="项目概况"><a href="#项目概况" class="headerlink" title="项目概况"></a>项目概况</h3><p>1 登陆<br>2 body页切换<br>3 内容加载</p><hr>]]></content>
       
       
       
@@ -47,17 +47,6 @@
     
     <entry>
       <title></title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
       
@@ -71,6 +60,17 @@
       <title></title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
