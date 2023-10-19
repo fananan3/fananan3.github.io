@@ -8,7 +8,7 @@
       <link href="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/"/>
       <url>/2023/10/19/%E5%8E%9F%E7%94%9FProject1/</url>
       
-        <content type="html"><![CDATA[<p>Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps,</p><hr><h3 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h3><p> 使用Android studio搭建的备忘录</p><h3 id="登陆页"><a href="#登陆页" class="headerlink" title="登陆页"></a>登陆页</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/1.png" width="30%" height="30%">  </div>]]></content>
+        <content type="html"><![CDATA[<p>Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps,</p><hr><h3 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h3><p> 使用Android studio搭建的备忘录</p><h3 id="登陆页"><a href="#登陆页" class="headerlink" title="登陆页"></a>登陆页</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/1.png" width="30%" height="30%">  </div>  <h3 id="首页"><a href="#首页" class="headerlink" title="首页"></a>首页</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/主页.png" width="30%" height="30%">  </div>  <h3 id="添加记录"><a href="#添加记录" class="headerlink" title="添加记录"></a>添加记录</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/添加记录.png" width="30%" height="30%">  </div>  <h3 id="修改记录"><a href="#修改记录" class="headerlink" title="修改记录"></a>修改记录</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/修改记录.png" width="30%" height="30%">  </div>  <h3 id="删除记录"><a href="#删除记录" class="headerlink" title="删除记录"></a>删除记录</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/删除记录.png" width="30%" height="30%">  </div>]]></content>
       
       
       
@@ -60,8 +60,8 @@
     
     <entry>
       <title></title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -82,8 +82,8 @@
     
     <entry>
       <title></title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
