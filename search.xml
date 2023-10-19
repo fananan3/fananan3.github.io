@@ -8,7 +8,7 @@
       <link href="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/"/>
       <url>/2023/10/19/%E5%8E%9F%E7%94%9FProject1/</url>
       
-        <content type="html"><![CDATA[<h2 id="Android-Studio-is-the-official-Integrated-Development-Environment-IDE-for-Android-app-development-Based-on-the-powerful-code-editor-and-developer-tools-from-IntelliJ-IDEA-Android-Studio-offers-even-more-features-that-enhance-your-productivity-when-building-Android-apps"><a href="#Android-Studio-is-the-official-Integrated-Development-Environment-IDE-for-Android-app-development-Based-on-the-powerful-code-editor-and-developer-tools-from-IntelliJ-IDEA-Android-Studio-offers-even-more-features-that-enhance-your-productivity-when-building-Android-apps" class="headerlink" title="Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps,"></a>Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps,</h2>]]></content>
+        <content type="html"><![CDATA[<p>Android Studio is the official Integrated Development Environment (IDE) for Android app development. Based on the powerful code editor and developer tools from IntelliJ IDEA , Android Studio offers even more features that enhance your productivity when building Android apps,</p><hr><h3 id="项目简介"><a href="#项目简介" class="headerlink" title="项目简介"></a>项目简介</h3><p> 使用Android studio搭建的备忘录</p><h3 id="登陆页"><a href="#登陆页" class="headerlink" title="登陆页"></a>登陆页</h3>  <div align="center">  <img src="/2023/10/19/%E5%8E%9F%E7%94%9FProject1/1.png" width="30%" height="30%">  </div>]]></content>
       
       
       
@@ -60,6 +60,17 @@
     
     <entry>
       <title></title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
@@ -73,17 +84,6 @@
       <title></title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
