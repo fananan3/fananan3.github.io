@@ -30,7 +30,7 @@
     "hexo-theme-butterfly": "^4.9.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-wordcount": "^6.0.1",
-    "jquery": "^3.7.0"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
     "gulp-clean-css": "^4.3.0",
