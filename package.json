@@ -12,7 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "hexo": "^6.3.0",
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-deployer-git": "^4.0.0",
