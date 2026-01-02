@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "gulp": "^4.0.2",
-    "hexo": "^6.3.0",
+    "hexo": "^8.1.1",
     "hexo-asset-image": "github:CodeFalling/hexo-asset-image",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
