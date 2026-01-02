@@ -665,8 +665,8 @@ enter_transitions: true
 # https://github.com/disjukr/activate-power-mode
 activate_power_mode:
   enable: false
-  colorful: true # open particle animation (冒光特效)
-  shake: true #  open shake (抖動特效)
+  colorful: true  open particle animation (冒光特效)
+  shake: true   open shake (抖動特效)
   mobile: false
 
 # Background effects (背景特效)
